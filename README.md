@@ -1,4 +1,4 @@
-<img style=" width: 162px; mix-blend-mode: multiply;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtngUEnM7yJyXRszM6g2NnW_yD6g6q0z2VJw&s" alt="MRD">
+<img style=" width: 162px; mix-blend-mode: multiply;" src="https://github.com/ms3ti/ReceituarioDigital-backend/blob/main/src/assets/mrd-logo-300px.png?raw=true" alt="MRD">
 
 
 ------
